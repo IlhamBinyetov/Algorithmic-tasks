@@ -1,0 +1,14 @@
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.exe
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.deps.json
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.runtimeconfig.json
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.runtimeconfig.dev.json
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.dll
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\bin\Debug\netcoreapp3.1\Alqoritms.pdb
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.csproj.AssemblyReference.cache
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.AssemblyInfoInputs.cache
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.AssemblyInfo.cs
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.csproj.CoreCompileInputs.cache
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.dll
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.pdb
+C:\Users\Taleh-PC\source\repos\Alqoritms\Alqoritms\obj\Debug\netcoreapp3.1\Alqoritms.genruntimeconfig.cache
