@@ -224,7 +224,7 @@ namespace Alqoritms
             return count;
         }
 
-        public string InterestingStrinName(string value) //Python
+        public string InterestingStringName(string value) //Python
         {
 
             string newName = "";
@@ -237,6 +237,19 @@ namespace Alqoritms
             return newName;
         }
 
+
+        public int CountofGivenString(string value) // abcdabab 7
+        {
+            int count = 0;
+            var lastCharOfValue = value.Substring(value.Length - 2);
+
+            for (int i = 0; i < value.Length-2; i++)
+            {
+                if (value.Substring(i, 2).Equals(lastCharOfValue)) count++;
+            }
+
+            return count;
+        }
 
     }
 

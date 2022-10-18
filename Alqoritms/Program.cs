@@ -53,6 +53,8 @@ namespace Alqoritms
 
             //Console.Read();
 
+
+            #region Basic Algorithm Class Tasks
             BasicAlgorithm ba = new BasicAlgorithm();
             //Console.WriteLine(ba.TwoSum(3, 3));
             //Console.WriteLine(ba.AbsoluteDifference(50, 51));
@@ -82,7 +84,11 @@ namespace Alqoritms
 
             //Console.WriteLine(ba.CountOfaaInString("baaazar"));
 
-            Console.WriteLine(ba.InterestingStrinName("Ilham"));
+            //Console.WriteLine(ba.InterestingStringName("Ilham"));
+
+            Console.WriteLine(ba.CountofGivenString("abcdabab"));
+            #endregion
+
 
 
         }
